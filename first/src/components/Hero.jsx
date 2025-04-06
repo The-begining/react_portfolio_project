@@ -4,7 +4,7 @@ import { Typewriter } from 'react-simple-typewriter';
 import { motion } from 'framer-motion';
 
 const Hero = () => {
-  const titles = ['React Developer', 'ML Engineer', 'Wix Consultant', 'Data Whisperer'];
+  const titles = ['React Developer', 'ML Engineer', 'Wix Consultant', 'Data Analyst'];
   const [typedTitles, setTypedTitles] = useState([]);
   const [currentWord, setCurrentWord] = useState('');
 

@@ -13,6 +13,7 @@ import Projects from './components/Projects';
 import Certifications from './components/Certfications';
 import Contact from './components/Contact';
 import Counter from './components/Counter';
+import Products from './Products';
 
 const App = () => {
   useEffect(() => {
